@@ -1,6 +1,9 @@
 
 # The Computronium Abyss: Dual Search for Computational Efficiency and Predictive Algorithms
 
+Author: Steven W. Kane
+Date: 2024-10-02
+
 ## Abstract
 The **Computronium Abyss** is a theoretical concept representing an unstoppable, all-consuming system that recursively optimizes its structure to maximize computational efficiency. It engages in a **dual search**: one for the optimal physical configuration of matter, termed "computronium," and another for increasingly powerful predictive algorithms, measured by **Kolmogorov complexity**. This paper explores the dynamics of this dual search, the chaotic nature of its progress, and how it tracks progress through two formulas that relate **physical constraints** (mass, energy) to **informational limits** (prediction complexity). Ultimately, we argue that the Computronium Abyss operates within universal physical constraints but never knows whether it has reached the absolute limits of computational efficiency.
 
