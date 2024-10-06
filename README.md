@@ -2,6 +2,7 @@
 # The Computronium Abyss: Dual Search for Computational Efficiency and Predictive Algorithms
 
 Author: Steven W. Kane
+
 Date: 2024-10-02
 
 ## Abstract
